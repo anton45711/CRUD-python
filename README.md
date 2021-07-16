@@ -2,7 +2,8 @@
 
 
 CREAR UN NUEVO EMPLEADO                     => CRUD-python/templates/empleados/create.html               
-EDITAR UN NUEVO EMPLEADO                    => CRUD-python/templates/empleados/edit.html 		  
+EDITAR UN NUEVO EMPLEADO                    => CRUD-python/templates/empleados/edit.html 	
+
 
 CONTENIDO DEL SISTEMA
 CRUD-python/templates/empleados/index.html		   
