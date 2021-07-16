@@ -6,9 +6,9 @@ Editar un nuevo empleado                    => CRUD-python/templates/empleados/e
 
 
 CONTENIDO DEL SISTEMA
-CRUD-python/templates/empleados/index.html		   
-CRUD-python/templates/header.html			   
-CRUD-python/templates/footer.html
+        CRUD-python/templates/empleados/index.html		   
+        CRUD-python/templates/header.html			   
+        CRUD-python/templates/footer.html
 
 Lugar de las fotos introducidas             => CRUD-python/uploads/					   
 Ejecutador del sistema                      => anton45711/CRUD-python/app.py
