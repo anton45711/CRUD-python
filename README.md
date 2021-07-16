@@ -1,11 +1,12 @@
 # CRUD-python
 
 
-Crear un nuevo empleado                     => CRUD-python/templates/empleados/create.html               
+Crear un nuevo empleado                     => CRUD-python/templates/empleados/create.html
 Editar un nuevo empleado                    => CRUD-python/templates/empleados/edit.html 	
 
 
 CONTENIDO DEL SISTEMA
+
         CRUD-python/templates/empleados/index.html		   
         CRUD-python/templates/header.html			   
         CRUD-python/templates/footer.html
