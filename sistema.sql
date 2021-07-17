@@ -39,7 +39,7 @@ CREATE TABLE `empleados` (
 --
 
 INSERT INTO `empleados` (`id`, `nombre`, `correo`, `foto`) VALUES
-(46, 'Samuel Antón Avil', 'sam45711@gmail.co', '2021163610Samuel_Anton.jpg');
+(46, 'Samuel Antón Avila', 'sam45711@gmail.com', '2021163610Samuel_Anton.jpg');
 
 --
 -- Índices para tablas volcadas
